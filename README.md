@@ -12,3 +12,5 @@ what is difference between framework and Library ?
 library : collection of reusable code - reduce to read repatitve codes. 
 Framework: predetermend code, and ask you fill the pattern, next . ja work with react 
 
+-----
+ component means a bunch of code that you can use again adn again, you can add componenets to your app by adding the name : <mycomponent/>
