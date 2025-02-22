@@ -5,9 +5,16 @@ import {createRoot} from "react-dom/client"
 
 const root = createRoot(document.getElementById("root"))
 
-const reactElement = <h1>Hello from JSX</h1>
+function MainReturn(){
+    return 
+        <h1>Headr by me</h1>;
+    
+}
+
 
 
 root.render(
-    reactElement
+    <div>
+        <MainReturn />
+    </div>
 )
