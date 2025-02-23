@@ -14,3 +14,15 @@ Framework: predetermend code, and ask you fill the pattern, next . ja work with 
 
 -----
  component means a bunch of code that you can use again adn again, you can add componenets to your app by adding the name : <mycomponent/>
+-------
+react is declarative : we can write the code and react will say just tell me what needs to happen, and I will do that. 
+root.render(
+    <h1>Hello react </h1>
+)
+======
+imperative means in each and all lines you have to say what you are looking for and what you need. 
+document.hetegelementbyID
+,innertext
+.innerContent
+appendchile 
+All these steps needs to be doen.
