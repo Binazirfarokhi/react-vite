@@ -26,3 +26,8 @@ document.hetegelementbyID
 .innerContent
 appendchile 
 All these steps needs to be doen.
+we describe everything for browser to understand.
+======
+console.log(<h1> Hello world!</h1>) will show an object in the console. it means that react will use to fill in the view.
+=====
+what is composable ? we have small pieces that we can put together to make something larger or greater than the individual pieces themselves.
